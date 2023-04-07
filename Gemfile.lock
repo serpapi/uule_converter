@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    base64 (0.1.1)
+    geocoder (1.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  base64
+  geocoder
+
+BUNDLED WITH
+   2.4.7
