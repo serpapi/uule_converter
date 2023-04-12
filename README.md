@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  A Blog Post with example usecase: <a href="">Real World Example of GPS Targeted Local SERP</a>
+  A Blog Post with example usecase: <a href="https://serpapi.com/blog/gps-targeted-local-serp">Real World Example of GPS Targeted Local SERP</a>
 </p>
 
 </br>
