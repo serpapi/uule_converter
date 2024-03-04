@@ -1,40 +1,41 @@
-<h1 align="center">UULE Converter</h1>
-<h4 align="center">A Ruby library for encoding and decoding UULE parameters in Google search URLs using coordinates</h4>
+# SerpApi UULE Converter
+#### A Ruby library for encoding and decoding UULE parameters in Google search URLs using coordinates
 
+---
 
-<div align="center">
+[![Gem Version][gem-shield]][gem-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Issues][issuesclosed-shield]][issuesclosed-url]
+[![MIT License][license-shield]][license-url]
 
-  <a href="">[![Gem Version][gem-shield]][gem-url]</a>
-  <a href="">[![Contributors][contributors-shield]][contributors-url] </a>
-  <a href="">[![Forks][forks-shield]][forks-url]</a>
-  <a href="">[![Stargazers][stars-shield]][stars-url]</a>
-  <a href="">[![Issues][issues-shield]][issues-url]</a>
-  <a href="">[![Issues][issuesclosed-shield]][issuesclosed-url]</a>
-  <a href="">[![MIT License][license-shield]][license-url]</a>
+![serpapi-uule-converter](https://gist.github.com/assets/73674035/0dfc3827-bc1e-4fa3-8c72-27f43a284d41)
 
-</div>
+---
 
+A Blog Post with example usecase: [Real World Example of GPS Targeted Local SERP](https://serpapi.com/blog/gps-targeted-local-serp)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73674035/231456927-53508370-3462-4aef-81df-644569c66af3.jpg" alt="uule_converter"/>
-</p>
+This gem is served under two names: 
+- `uule_converter`(legacy): [RubyGems Link](https://rubygems.org/gems/serpapi-uule-converter)
+- `serpapi-uule-converter`(recent): [RubyGems Link](https://rubygems.org/gems/uule_converter)
 
-<p align="center">
-  A Blog Post with example usecase: <a href="https://serpapi.com/blog/gps-targeted-local-serp">Real World Example of GPS Targeted Local SERP</a>
-</p>
+You can also find a light version at [SerpApi UULE Converter Light](github.com/serpapi/uule_converter_light).
 
-</br>
-<h3 align="center">Installation</h3>
+---
 
+### Installation
 ```bash
-gem install uule_converter
+gem install serpapi-uule-converter
 ```
 
-<h3 align="center">Example</h3>
+---
+
+### Example
 
 ```rb
-
-require 'uule_converter'
+require 'serpapi-uule-converter'
 
 latitude = 30.266666
 longitude = -97.733330
@@ -55,7 +56,9 @@ puts "Example Google Link: https://www.google.com/search?q=Cafe&tbm=lcl&gl=#{gl_
 
 ```
 
-<h3 align="center">Output</h3>
+---
+
+### Output
 
 ```bash
 GL Parameter: us
@@ -68,9 +71,11 @@ Example Google Link: https://www.google.com/search?q=Cafe&tbm=lcl&gl=us&uule=a+c
 
 ```
 
-<h3 align="center">Result</h3>
+---
 
-<img width="1460" alt="image" src="https://user-images.githubusercontent.com/73674035/230626568-f6a5e57f-7053-4325-802a-eedd23ff7a49.png">
+### Result
+
+![uule_converter](https://user-images.githubusercontent.com/73674035/230626568-f6a5e57f-7053-4325-802a-eedd23ff7a49.png)
 
 [gem-shield]: https://img.shields.io/gem/v/uule_converter.svg
 [gem-url]: https://rubygems.org/gems/uule_converter
