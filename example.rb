@@ -1,4 +1,4 @@
-require_relative 'lib/uule_converter'
+require 'serpapi-uule-converter'
 
 latitude = 30.266666
 longitude = -97.733330
