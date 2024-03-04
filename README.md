@@ -11,7 +11,7 @@
 [![Issues][issuesclosed-shield]][issuesclosed-url]
 [![MIT License][license-shield]][license-url]
 
-![serpapi-uule-converter](https://gist.github.com/assets/73674035/0dfc3827-bc1e-4fa3-8c72-27f43a284d41)
+![serpapi-uule-converter](https://github.com/serpapi/uule_converter/assets/73674035/9d22887e-5fa6-4e9c-868f-6a05b5474acb)
 
 ---
 
