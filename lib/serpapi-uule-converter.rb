@@ -1,4 +1,4 @@
-# lib/uule_converter.rb
+# lib/serpapi-uule-converter.rb
 require 'base64'
 require 'geocoder'
 
