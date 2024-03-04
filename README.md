@@ -77,8 +77,8 @@ Example Google Link: https://www.google.com/search?q=Cafe&tbm=lcl&gl=us&uule=a+c
 
 ![uule_converter](https://user-images.githubusercontent.com/73674035/230626568-f6a5e57f-7053-4325-802a-eedd23ff7a49.png)
 
-[gem-shield]: https://img.shields.io/gem/v/uule_converter.svg
-[gem-url]: https://rubygems.org/gems/uule_converter
+[gem-shield]: https://img.shields.io/gem/v/serpapi-uule-converter.svg
+[gem-url]: https://rubygems.org/gems/serpapi-uule-converter
 [contributors-shield]: https://img.shields.io/github/contributors/serpapi/uule_converter.svg
 [contributors-url]: https://github.com/serpapi/uule_converter/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/serpapi/uule_converter.svg
